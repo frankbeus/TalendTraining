@@ -1,2 +1,2 @@
 # TalendTraining
-GitHub Repository for Talend Training purposes
+GitHub Repository for Talend Training Purposes
